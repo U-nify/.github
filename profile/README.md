@@ -102,11 +102,13 @@ src/
 ### 백
 1. intellij로 gardle build
 2. application.java 실행
+
 현재 로그인 일부 빼곤 구현되지 않음
 
 ### 프론트
 1. yarn install
 2. yarn run start로 실행
+
 퍼블리싱 완료-임시 데이터들을 api로 교체할 필요 있음
 
 ## 각 기능 소개
