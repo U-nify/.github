@@ -111,33 +111,44 @@ src/
 
 ## 각 기능 소개
 ### 온보딩 및 로그인
+
 <img width="2169" height="995" alt="기능요약1" src="https://github.com/user-attachments/assets/fbdd3e00-db52-4cc2-80c9-6bb7c97bc6fb" />
 - 서비스에 관해 소개
 - 구글, 카카오, 네이버 로그인 세 가지를 모두 구현
+
 ### 홈 페이지
+
 <img width="390" height="1160" alt="기능요약2" src="https://github.com/user-attachments/assets/2bd98737-a74e-4804-b2b1-911baaa4ef60" />
 - 이벤트 확인
 - U+ 사이트로 카테고리 연결
 - 최근 상담 미리보기
 - 추천 상품 미리보기
+
 ### 추천 페이지
+
 <img width="390" height="1063" alt="기능요약3" src="https://github.com/user-attachments/assets/e9c05d4b-b2c9-4b3c-be57-bf9b629f96ca" />
 - 카테고리 별 추천 상품 조회
+
 ### 상담 페이지
+
 <img width="390" height="871" alt="기능요약4" src="https://github.com/user-attachments/assets/524d7309-5aa3-4115-b603-1a6a26e448a4" />
 - 상담 카테고리 선택
 - FAQ 자동응답
 - 전화 상담
 - 상담 종료 선택
 - 요약 선택
+
 ### 요약 페이지
+
 <img width="1033" height="1164" alt="기능요약5" src="https://github.com/user-attachments/assets/2d1a4809-3aad-46ad-bab0-3ccc513461f4" />
 - 요약 리스트 조회
 - 요약 리스트 정렬
 - 상세 요약 확인
 - 연관 상품 추천
 - 매장 찾기
+
 ### 마이페이지
+
 <img width="390" height="825" alt="기능요약6" src="https://github.com/user-attachments/assets/d9f02ded-9549-4590-8cbc-334958c5611a" />
 - 프로필 조회
 - 북마크한 상담 조회
