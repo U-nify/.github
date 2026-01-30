@@ -1,4 +1,4 @@
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/01499b7c-c569-45bd-ba49-2f26bb42e5df" /># UNIFY-UNITY
+
 ## 서비스 소개
 반복되는 일회성 상담, 핵심 내용을 파악하기 어려운 상담 서비스는 그만! 쉽게 질문하고 쉽게 파악하자. U+ 종합 상담 요약 서비스 'UNITY'입니다.
 
