@@ -114,16 +114,16 @@ src/
 ## 각 기능 소개
 ### 온보딩 및 로그인
 
-<img width="872" height="1766" alt="image" src="https://github.com/user-attachments/assets/0c2d8f20-0f29-417b-8818-1527317101d6" />
-<img width="872" height="1766" alt="image" src="https://github.com/user-attachments/assets/31528987-9ee9-4249-a129-40777d4bd089" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0c2d8f20-0f29-417b-8818-1527317101d6" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/31528987-9ee9-4249-a129-40777d4bd089" />
 
 - 서비스에 관해 소개
 - 구글, 카카오, 네이버 로그인 세 가지를 모두 구현
 
 ### 홈 페이지
 
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/9eb57425-969e-4176-93ab-210f1759eea1" />
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/4db6e425-2018-4789-b292-0f5eaf14f3bf" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9eb57425-969e-4176-93ab-210f1759eea1" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4db6e425-2018-4789-b292-0f5eaf14f3bf" />
 
 - 이벤트 확인
 - U+ 사이트로 카테고리 연결
@@ -132,14 +132,14 @@ src/
 
 ### 추천 페이지
 
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/c7a7fa74-9fe6-4d53-b656-f47a53b620ee" />
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/120a3f5d-9533-409a-9dd8-768f6d70fb3a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c7a7fa74-9fe6-4d53-b656-f47a53b620ee" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/120a3f5d-9533-409a-9dd8-768f6d70fb3a" />
 
 - 카테고리 별 추천 상품 조회
 
 ### 상담 페이지
 
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/37b2589a-96c9-4311-8aa2-fabb939ba039" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/37b2589a-96c9-4311-8aa2-fabb939ba039" />
 
 - 상담 카테고리 선택
 - FAQ 자동응답
@@ -149,8 +149,8 @@ src/
 
 ### 요약 페이지
 
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/2ff33715-9d20-4d5d-bb7d-433983238254" />
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/c17c22fc-5cb8-4a53-a493-cc81bde863ac" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2ff33715-9d20-4d5d-bb7d-433983238254" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c17c22fc-5cb8-4a53-a493-cc81bde863ac" />
 
 - 요약 리스트 조회
 - 요약 리스트 정렬
@@ -160,7 +160,7 @@ src/
 
 ### 마이페이지
 
-<img width="802" height="1628" alt="image" src="https://github.com/user-attachments/assets/ce6f9653-105d-422c-9fa4-4f4d8cd62e9e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ce6f9653-105d-422c-9fa4-4f4d8cd62e9e" />
 
 
 - 프로필 조회
