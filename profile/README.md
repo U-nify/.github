@@ -25,16 +25,16 @@
 ### 프론트엔드
 ```
 src/
-├─ app/                         # ✅ Routing / Page Layer
+├─ app/                         
 │  ├─ layout.tsx
 │  ├─ page.tsx
 │  ├─ products/
-│  │  ├─ page.tsx               # 페이지 진입점 (조합만)
-│  │  ├─ _components/            # ❗ products 페이지만 쓰는 UI
+│  │  ├─ page.tsx             
+│  │  ├─ _components/            
 │  │  │  ├─ ProductList.tsx
 │  │  │  ├─ ProductFilter.tsx
 │  │  │  └─ ProductPagination.tsx
-│  │  ├─ _hooks/                 # ❗ products 페이지 orchestration
+│  │  ├─ _hooks/                 
 │  │  │  └─ useProductsPage.ts
 │  │  └─ [id]/
 │  │     ├─ page.tsx
@@ -46,46 +46,46 @@ src/
 │     ├─ page.tsx
 │     ├─ _components/
 │     └─ _hooks/
-├─ components/                  # ✅ 공통 UI Layer
-│  ├─ ui/                        # 완전 재사용 (도메인 무관)
+├─ components/                  
+│  ├─ ui/                   
 │  │  ├─ button/
 │  │  │  └─ Button.tsx
 │  │  └─ modal/
 │  │     └─ Modal.tsx
-│  ├─ product/                   # 도메인 UI (재사용 가능)
+│  ├─ product/                   
 │  │  └─ product-card/
 │  │     └─ ProductCard.tsx
 │  └─ layout/
 │     ├─ Header.tsx
 │     └─ Footer.tsx
-├─ services/                    # ⭐ 서버 상태의 중심
+├─ services/                    
 │  ├─ api/
-│  │  ├─ client.ts               # fetch/axios instance
+│  │  ├─ client.ts              
 │  │  └─ interceptors.ts
 │  └─ product/
-│     ├─ productApi.client.ts    # 실제 API 호출
+│     ├─ productApi.client.ts    
 │     ├─ productApi.server.ts
-│     ├─ queries.ts              # ✅ queryOptions / queryKey 정의
+│     ├─ queries.ts              
 │     └─ index.ts
-├─ hooks/                       # UI 로직 전용
+├─ hooks/                    
 │  ├─ ui/
 │  │  ├─ useModal.ts
 │  │  └─ useToast.ts
 │  └─ auth/
 │     └─ useAuth.ts
-├─ store/                       # 전역 클라이언트 상태
+├─ store/                   
 │  ├─ slices/
 │  │  ├─ uiSlice.ts
 │  │  └─ cartSlice.ts
 │  └─ store.ts
-├─ types/                       # 타입 정의
+├─ types/                       
 │  ├─ common/
 │  ├─ product/
 │  └─ auth/
-├─ utils/                       # 순수 함수
+├─ utils/                     
 │  ├─ common/
 │  └─ product/
-├─ providers/                   # 전역 Provider
+├─ providers/                   
 │  ├─ QueryProvider.tsx
 │  └─ AuthProvider.tsx
 ├─ styles/
